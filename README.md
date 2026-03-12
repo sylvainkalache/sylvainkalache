@@ -66,6 +66,5 @@ claude mcp add sylvain-kalache -- npx -y mcp-sylvain-kalache
 ---
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=sylvainkalache&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6B7280" height="165" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sylvainkalache&bg_color=0d1117&color=c9d1d9&line=a78bfa&point=a78bfa&area=true&area_color=a78bfa&hide_border=true" width="95%" />
 </div>

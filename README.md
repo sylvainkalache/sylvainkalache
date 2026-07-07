@@ -62,9 +62,3 @@ I built this MCP server for fun — use it to explore my career, read my writing
 ```bash
 claude mcp add sylvain-kalache -- npx -y mcp-sylvain-kalache
 ```
-
----
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sylvainkalache&bg_color=0d1117&color=c9d1d9&line=a78bfa&point=a78bfa&area=true&area_color=a78bfa&hide_border=true" width="95%" />
-</div>
